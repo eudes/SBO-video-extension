@@ -32,7 +32,7 @@ var windowsReservedRe = /^(con|prn|aux|nul|com[0-9]|lpt[0-9])(\..*)?$/i;
 var windowsTrailingRe = /[\. ]+$/;
 
 function sanitize(input, replacement) {
-    if(!replacement){
+    if (!replacement) {
         replacement = ' -';
     }
     var sanitized = input
