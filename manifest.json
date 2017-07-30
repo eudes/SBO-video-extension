@@ -14,10 +14,10 @@
             ],
             "js": [
                 "lib/jquery.min.js",
-                "core/util.js",
-                "core/shared.js",
-                "core/techbus.js",
-                "core/new.js",
+                "core/content_scripts/util.js",
+                "core/content_scripts/shared.js",
+                "core/content_scripts/techbus.js",
+                "core/content_scripts/new.js",
                 "main.js"
             ],
             "run_at": "document_idle"
@@ -35,7 +35,7 @@
             "core/background_page/observableArray.js",
             "core/background_page/sanitizeFilename.js",
             "core/background_page/downloadManager.js",
-            "core/background.js"
+            "core/background_page/background.js"
         ]
     },
     "web_accessible_resources": [
