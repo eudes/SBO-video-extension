@@ -2,8 +2,7 @@
 
 Where SBO refers to Safari Books Online (copyrights reserved)
 
-This chrome extension is [available in the Chrome Store]
-(https://chrome.google.com/webstore/detail/safari-books-online-video/ihgjlggckknakenjhgmfgaoalflhfihl).
+This chrome extension is [available in the Chrome Store](https://chrome.google.com/webstore/detail/safari-books-online-video/ihgjlggckknakenjhgmfgaoalflhfihl).
 
 ## Features
 
@@ -31,7 +30,8 @@ For the extension to work on the new site, you need to indicate to chrome that y
 ### Old site
 The old website is hosted at the domain: `techbus.safaribooksonline.com`. 
 Nothing special is needed for the extension to work.
+
 <img src="./docs/techbus.png" width="500">
 
 ## Have an issue?
-Feel free to [open an issue] (https://github.com/mhewedy/SBO-video-extension/issues/new), contact via email or any other means.
+Feel free to [open an issue](https://github.com/mhewedy/SBO-video-extension/issues/new), contact via email or any other means.
