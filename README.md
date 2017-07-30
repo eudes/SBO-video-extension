@@ -1,36 +1,37 @@
 # Welcome to Safari (SBO) Chrome Video Extension
 
-Where SBO refers to Safari Books Online (copy rights reserved)
+Where SBO refers to Safari Books Online (copyrights reserved)
 
-You can download the extension for chrome
-[from Chrome webstore here ](https://chrome.google.com/webstore/detail/safari-books-online-video/ihgjlggckknakenjhgmfgaoalflhfihl).
-
+This chrome extension is [available in the Chrome Store]
+(https://chrome.google.com/webstore/detail/safari-books-online-video/ihgjlggckknakenjhgmfgaoalflhfihl).
 
 ## Features
 
-This extension can be used for both new safari site and old site (techbus) to download the videos (but only if you have a registered account at Safari books online)
+This extension will allow you to download videos from the Safari books website if you have an active account. It is compatible with both the new safari site and the old site (techbus).
 
-### The Old website (techbus)
+You can also batch download whole courses by clicking on the extension icon in the toolbar.
 
-The old website the one that have the domain name: `techbus.safaribooksonline.com`.
+## Usage
+### Single video download
+Once you have the extension installed, an icon will appear next to the video title. By clicking on it, you can download that video.
 
-Once you have the extension installed, and you click on any video course, after a while (5 seconds) you will see a little red icon beside each video lesson allow you to download the video (see the picture).
+### Download all videos
+You can download all videos in a page by clicking on the extension button in the toolbar.
 
-<img src="./docs/techbus.png" width="500">
+### New website
 
+The new website is hosted at the domain: `www.safaribooksonline.com`
 
-### The new website
-The new webiste that have the domain name: `www.safaribooksonline.com`
-
-In case of the new website and after installing the extension and one you opened the video course main page that have the **Table of Contents** section, you first need to click on **load unsafe scripts**.
+For the extension to work on the new site, you need to indicate to chrome that you want to **load unsafe scripts** for this extension.
 
 <img src="./docs/load_unsafe_scripts.png" width="200">
 
-Then now you can enjoy the video downloads by clicking the little red icon beside each video lesson allow you to download the video (see the picture).
-
-
 <img src="./docs/new.png" width="500">
 
+### Old site
+The old website is hosted at the domain: `techbus.safaribooksonline.com`. 
+Nothing special is needed for the extension to work.
+<img src="./docs/techbus.png" width="500">
 
-## Have issue?
-Feel free to contact me via [opening an issue] (https://github.com/mhewedy/SBO-video-extension/issues/new), email or any mean if you need any help.
+## Have an issue?
+Feel free to [open an issue] (https://github.com/mhewedy/SBO-video-extension/issues/new), contact via email or any other means.
